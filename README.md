@@ -1,4 +1,4 @@
-# PruebaServerRespuestaHolaMundo
+# Prueba de Server: Hola Mundo
 
 Servidor básico en **Node.js** que simula una terminal estilo *Fallout* y responde a solicitudes HTTP con una interfaz retro interactiva.
 
