@@ -21,7 +21,7 @@ Servidor básico en **Node.js** que simula una terminal estilo *Fallout* y respo
 
 ## Instalación y ejecución
 1. Clonar el repositorio:
-    git clone https://github.com/S1LV3R42/PruebaServerRespuestaHolaMundo.git
+    git clone https://github.com/S1LV3R42/TP1-ServerHolaMundo.git
 2. Entrar en la carpeta del proyecto:
     cd PruebaServerRespuestaHolaMundo
 3. Ejecutar el servidor:
